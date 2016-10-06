@@ -5,7 +5,7 @@ This incredibly complex algorithm uses a random number generator to create rando
 
 To run, download pydub http://pydub.com/ by running `pip install pydub`
 
-`python mashup_maker.py song1.mp3 song2.mp3`
+`python mashup_maker.py song1.mp3 song2.mp3 song3.mp3 ...` 
 
 I have had no issues using mp3's and it should theoretically handle other file formats.  
 
